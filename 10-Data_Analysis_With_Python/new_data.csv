@@ -1,0 +1,6 @@
+
+OrderID,Product,Category,Price,Quantity,Date,CustomerID,Region
+1,Smartphone,Electronics,723.45,3,2025-03-15,C012,North
+2,Jeans,Clothing,45.99,2,2025-04-02,C005,South
+3,Book,Stationery,12.50,1,2025-01-25,C018,West
+4,Chair,Furniture,89.99,4,2025-05-10,C003,East
